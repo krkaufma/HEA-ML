@@ -31,7 +31,7 @@ numpy==1.16.0
 openpyxl==3.0.2
 packaging==19.2
 pandas==0.24.1
-Pillow==6.2.1
+Pillow==8.1.1
 pluggy==0.13.1
 protobuf==3.11.1
 py==1.8.0
